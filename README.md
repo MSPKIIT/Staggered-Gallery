@@ -1,3 +1,5 @@
+[![Codemagic build status](https://api.codemagic.io/apps/5f070250d9ccd5631ab12c0a/5f070250d9ccd5631ab12c09/status_badge.svg)](https://codemagic.io/apps/5f070250d9ccd5631ab12c0a/5f070250d9ccd5631ab12c09/latest_build)
+
 # Staggered Gallery
 
 A Gallery with configurable cross-axis count or max cross-axis extent like the GridView. Configurable main-axis and cross-axis margins between tiles. SliverStaggeredGrid for using in a CustomScrollView. Staggered and Spannable grid layouts.
