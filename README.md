@@ -1,4 +1,4 @@
-[![Codemagic build status](https://api.codemagic.io/apps/5f070250d9ccd5631ab12c0a/5f070250d9ccd5631ab12c09/status_badge.svg)](https://codemagic.io/apps/5f070250d9ccd5631ab12c0a/5f070250d9ccd5631ab12c09/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/5f070250d9ccd5631ab12c0a/5f070250d9ccd5631ab12c09/status_badge.svg)](https://codemagic.io/apps/5f070250d9ccd5631ab12c0a/5f070250d9ccd5631ab12c09/latest_build) [![GitHub license](https://img.shields.io/github/license/MSPKIIT/Staggered-Gallery)](https://github.com/MSPKIIT/Staggered-Gallery/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/MSPKIIT/Staggered-Gallery)](https://github.com/MSPKIIT/Staggered-Gallery/stargazers) [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https://twitter.com/mspckiit)
 
 # Staggered Gallery
 
