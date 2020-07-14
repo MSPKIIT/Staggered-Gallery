@@ -41,3 +41,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Xamarin
+The xamarin Gallery application leverages the [Syncfusion listview control](https://help.syncfusion.com/xamarin/introduction/overview)
+
+
+<img src="https://github.com/MicrosoftStudentAmbassadors-Kenya/Staggered-Gallery/blob/master/assets/Screenshots/Annotation%202020-07-14%20171123.png" />
+
+## Getting started with Xamarin
+A few resources to learn about Xamarin.
+
+- [Opportunities and Tooling in Cross platform Mobile Development with James Montemagno](https://www.youtube.com/watch?v=04NC5YJVfgo)
+- [Xamarin.Forms documentation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
