@@ -1,0 +1,14 @@
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\bin\Debug\netstandard2.0\StaggeredGallery.deps.json
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\bin\Debug\netstandard2.0\StaggeredGallery.dll
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\bin\Debug\netstandard2.0\ref\StaggeredGallery.dll
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\bin\Debug\netstandard2.0\StaggeredGallery.pdb
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\StaggeredGallery.csprojAssemblyReference.cache
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\StaggeredGallery.AssemblyInfoInputs.cache
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\StaggeredGallery.AssemblyInfo.cs
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\StaggeredGallery.csproj.CoreCompileInputs.cache
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\XamlC.stamp
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\StaggeredGallery.dll
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\ref\StaggeredGallery.dll
+D:\StaggeredGallery\Xamarin\StaggeredGallery\StaggeredGallery\StaggeredGallery\obj\Debug\netstandard2.0\StaggeredGallery.pdb
