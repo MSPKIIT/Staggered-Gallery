@@ -6,7 +6,7 @@ A Gallery with configurable cross-axis count or max cross-axis extent like the G
 
 # See it in action
 
-<img src="https://raw.githubusercontent.com/MSPKIIT/Staggered-Gallery/master/assets/Screenshots/gallery_sample.gif" width="520" />
+<img src="https://raw.githubusercontent.com/MSPKIIT/Staggered-Gallery/master/assets/Screenshots/gallery_sample.gif" width="230" />
 
 # Dependencies
 
